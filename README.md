@@ -274,10 +274,12 @@ The techniques used here can be applied beyond cricket to industries such as fin
 * The **Power BI** and **Python** communities for their excellent documentation and open-source libraries.
 
 ---
+# 👤 Author
 
-# ⭐ If You Like This Project
+**NIPUNIKA SINGH**
 
-If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub. Your support motivates me to build and share more data analytics projects!
+- LinkedIn: https://www.linkedin.com/in/nipunika-singh-405843323/
+- GitHub: https://github.com/NIPUNIKA-singh
 
-Feel free to connect with me for discussions on **Data Analytics, Power BI, Python, SQL, and Business Intelligence**.
+---
 
