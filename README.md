@@ -206,9 +206,10 @@ The dashboard provides valuable insights, including:
 These insights help identify players who consistently deliver strong performances across multiple matches.
 ### Dashboard Preview: Total 6 Slides but here Starting & Last is displayed.
 
-"C:\Users\LENOVO\Desktop\POWER BI\Cricket DA project\Screenshot (362).png"
+<img width="1366" height="768" alt="Screenshot (362)" src="https://github.com/user-attachments/assets/cd9b6acf-c587-4d4a-9eab-73b680695d25" />
 
-"C:\Users\LENOVO\Desktop\POWER BI\Cricket DA project\Screenshot (363).png"
+<img width="1366" height="768" alt="Screenshot (363)" src="https://github.com/user-attachments/assets/cf141dd2-c0ed-499b-928a-f85a686a7321" />
+
 
 ---
 
